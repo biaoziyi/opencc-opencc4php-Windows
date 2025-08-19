@@ -26,7 +26,7 @@ extension=php_opencc.dll
 
 有自己编译需求的，在编译时需要注意你正在使用的PHP版本
 
-测试的PHP 7.4.33，需要在vc15下编译的
+测试的PHP 7.4.33，在vc15下编译的
 
 因为我使用的是Visual Studio 2022 Community，从[opencc4php](https://github.com/nauxliu/opencc4php)扩展源码自行编译时，即使安装了MSVC v141 - VS2017 C++ build tools，在不更改其他设置时，还需要修改phpsdk提供的phpsdk_setshell.bat
 
