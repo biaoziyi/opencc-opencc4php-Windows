@@ -4,7 +4,7 @@
 
 OpenCC version: 1.1.19
 
-PHP version: 7.4.33 - vc15
+PHP version: 7.4.33
 
 PHP-SDK: 2.2.0
 
